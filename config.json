@@ -1,17 +1,9 @@
 {
   "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Next.js Netlify Blog",
-  "site_description": "Next.js blog template for Netlify",
+  "site_title": "C Merriman Conslting",
+  "site_description": "C Merriman Consulting - Information Security for Businesses",
   "site_keywords": [
-    {
-      "keyword": "Next.js"
-    },
-    {
-      "keyword": "Netlify"
-    },
-    {
-      "keyword": "React"
-    }
+    "Information security"
   ],
   "posts_per_page": 5,
   "twitter_account": "@my-account",
